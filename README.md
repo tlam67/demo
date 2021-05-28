@@ -3,7 +3,7 @@ Basic example
 
 ### Run it
 
-    git clone https://github.com/mapbox/mapbox-react-examples.git
+    git clone https://github.com/tlam67/demo.git
 
     cd demo
     npm install
